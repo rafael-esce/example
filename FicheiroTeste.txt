@@ -1,1 +1,1 @@
-Isto é um ficheiro de teste
+Isto é um ficheiro de teste alterado por colaborador 2
